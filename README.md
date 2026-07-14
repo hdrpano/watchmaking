@@ -43,6 +43,8 @@ Features include:
 * Material selection
 * Immediate simulation of edited geometry
 
+![Profile Editor](/img/editor.png)
+
 ---
 
 ## Profile Converter
@@ -59,6 +61,8 @@ Supported formats include:
 
 The converter preserves the original geometry whenever possible and supports exact arc and line reconstruction.
 
+![DXF](/img/dxf.png)
+
 ---
 
 ## NIHS Generator
@@ -71,6 +75,8 @@ Features include:
 * Pinion generation
 * Automatic Belot export
 * Direct compatibility with the Gear Simulator
+
+![HIHS to Belot](/img/nihs.png)
 
 ---
 
@@ -178,14 +184,16 @@ Special thanks to everyone who has provided valuable feedback during testing.
 
 # Screenshots
 
-*(Add screenshots here.)*
-
 * Gear Simulator
 * Contact Analysis
 * Monte Carlo Simulation
 * Profile Editor
 * Converter
 * Fusion Export
+
+![Monte Carlo](/img/MonteCarlo.png)
+![Fusion MCP](/img/fusion.png)
+![Fusion MCP](/img/fusion_d.png)
 
 ---
 
