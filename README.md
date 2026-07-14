@@ -90,6 +90,8 @@ This repository also includes the complete source code of
 Debug.py
 ```
 
+![Debug.py](/source/Debug.py)
+
 The parser demonstrates how Belot profile files are read and interpreted.
 
 It is intended as a reference implementation for developers who want to
@@ -99,8 +101,6 @@ It is intended as a reference implementation for developers who want to
 * generate custom profiles
 * integrate Belot geometry into CAD or CAM software
 
----
-
 # Supported Operating Systems
 
 Precompiled applications are available for:
@@ -109,8 +109,6 @@ Precompiled applications are available for:
 * macOS (Apple Silicon)
 
 The macOS applications are digitally signed.
-
----
 
 # Installation
 
@@ -126,8 +124,6 @@ Start the desired application:
 * NIHS Generator
 
 No Python installation is required.
-
----
 
 # Typical Workflow
 
