@@ -8,8 +8,6 @@ The software has been developed with a strong focus on practical watchmaking app
 
 ![Contact Analyses](/img/contact.png)
 
----
-
 # Features
 
 ## Watchmaking Gear Simulator
@@ -28,8 +26,6 @@ The software has been developed with a strong focus on practical watchmaking app
 * SVG and PNG graphics export
 * Fusion 360 MCP export
 
----
-
 ## Profile Editor
 
 The Profile Editor allows direct modification of Belot gear profiles.
@@ -44,8 +40,6 @@ Features include:
 * Immediate simulation of edited geometry
 
 ![Profile Editor](/img/editor.png)
-
----
 
 ## Profile Converter
 
@@ -63,8 +57,6 @@ The converter preserves the original geometry whenever possible and supports exa
 
 ![DXF](/img/dxf.png)
 
----
-
 ## NIHS Generator
 
 The NIHS Generator creates standard NIHS 20-30 watch gear profiles.
@@ -77,8 +69,6 @@ Features include:
 * Direct compatibility with the Gear Simulator
 
 ![HIHS to Belot](/img/nihs.png)
-
----
 
 # Belot Parser Source Code
 
@@ -136,15 +126,11 @@ No Python installation is required.
 5. Perform Monte Carlo tolerance simulations.
 6. Export geometry for Fusion 360.
 
----
-
 # Documentation
 
 Additional documentation, tutorials and theory papers are available in the project documentation.
 
 The generated PDF reports explain the calculated results in detail.
-
----
 
 # License
 
@@ -154,8 +140,6 @@ The included parser source code is released under the MIT License.
 
 Please see the LICENSE file for details.
 
----
-
 # Contributing
 
 Bug reports and feature suggestions are always welcome.
@@ -164,23 +148,17 @@ If you discover incorrect geometry, unsupported profile formats or calculation i
 
 Contributions improving documentation are also appreciated.
 
----
-
 # Disclaimer
 
 The software is intended for engineering, educational and research purposes.
 
 Although every effort has been made to verify the calculations, users remain responsible for validating results before applying them to production components.
 
----
-
 # Acknowledgements
 
 The project builds upon many years of practical experience in Swiss watchmaking, gear geometry and escapement development.
 
 Special thanks to everyone who has provided valuable feedback during testing.
-
----
 
 # Screenshots
 
@@ -195,8 +173,6 @@ Special thanks to everyone who has provided valuable feedback during testing.
 ![Fusion MCP](/img/fusion.png)
 ![Fusion MCP](/img/fusion_d.png)
 
----
-
 # Example Applications
 
 *(Add example images here.)*
@@ -207,8 +183,6 @@ Special thanks to everyone who has provided valuable feedback during testing.
 * Centre wheel
 * Pinion profiles
 * NIHS examples
-
----
 
 # Contact
 
