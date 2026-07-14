@@ -1,6 +1,7 @@
 # Watchmaking Gear Simulator
+This is part of my new project and book **Watchmaking with Python**
 
-## Python for Watchmaking
+## Watchmaking with Python
 ### Modern Engineering for Mechanical Watches
 
 Mechanical watchmaking has evolved far beyond traditional design methods. Today, numerical simulation, data analysis and software engineering have become essential tools in the development of high-performance mechanical movements.
@@ -9,7 +10,7 @@ Python for Watchmaking bridges the gap between classical horology and modern eng
 
 The book is available in English, German and French, making it accessible to readers throughout the international watchmaking industry.
 
-## What You Will Learn
+## What You Will Learn in this book
 
 The book covers a wide range of engineering topics, including:
 
@@ -30,6 +31,8 @@ The book covers a wide range of engineering topics, including:
 * Engineering software architecture
 
 ## ➡️ Available here: [watchmaking](https://watchmaking.com)
+
+# Watchmaking Gear Simulator
 
 Professional analysis tools for Swiss watch gear trains.
 
