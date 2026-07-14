@@ -86,10 +86,6 @@ Features include:
 
 This repository also includes the complete source code of
 
-```
-Debug.py
-```
-
 [Debug.py](/source/Debug.py)
 
 The parser demonstrates how Belot profile files are read and interpreted.
