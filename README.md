@@ -1,7 +1,7 @@
 # Watchmaking Gear Simulator
 
 ## Python for Watchmaking
-## Modern Engineering for Mechanical Watches
+### Modern Engineering for Mechanical Watches
 
 Mechanical watchmaking has evolved far beyond traditional design methods. Today, numerical simulation, data analysis and software engineering have become essential tools in the development of high-performance mechanical movements.
 
