@@ -6,6 +6,8 @@ The **Watchmaking Gear Simulator** is a collection of applications for analysing
 
 The software has been developed with a strong focus on practical watchmaking applications, including contact analysis, efficiency calculations, Hertzian pressure, manufacturing tolerances and CAD integration.
 
+![Contact Analyses](/img/contact.png)
+
 ---
 
 # Features
