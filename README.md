@@ -1,5 +1,23 @@
 # Watchmaking Gear Simulator
 
+##📘 Learn More
+
+If you would like to understand the theory behind the software, gear geometry, contact analysis and practical watchmaking calculations, please see the book:
+
+##📖 Watchmaking with Python
+
+From Traditional Gear Geometry to Modern Contact Analysis
+
+##➡️ Available here: [watchmaking](https://watchmaking.com)
+
+The book explains the mathematical foundations, the Belot profile format, gear generation, contact analysis, Monte Carlo simulation, Hertzian contact pressure, and many of the algorithms implemented in this software.
+
+Professional analysis tools for Swiss watch gear trains.
+
+The Watchmaking Gear Simulator is a collection of applications for analysing, editing and converting traditional watch wheel and pinion profiles based on the Belot geometry format.
+
+The software has been developed with a strong focus on practical watchmaking applications, including contact analysis, efficiency calculations, Hertzian pressure, manufacturing tolerances and CAD integration.
+
 Professional analysis tools for Swiss watch gear trains.
 
 The **Watchmaking Gear Simulator** is a collection of applications for analysing, editing and converting traditional watch wheel and pinion profiles based on the Belot geometry format.
