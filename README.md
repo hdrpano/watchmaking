@@ -1,16 +1,35 @@
 # Watchmaking Gear Simulator
 
-## 📘 Learn More
+## Python for Watchmaking
+## Modern Engineering for Mechanical Watches
 
-If you would like to understand the theory behind the software, gear geometry, contact analysis and practical watchmaking calculations, please see the book:
+Mechanical watchmaking has evolved far beyond traditional design methods. Today, numerical simulation, data analysis and software engineering have become essential tools in the development of high-performance mechanical movements.
 
-## 📖 Watchmaking with Python
+Python for Watchmaking bridges the gap between classical horology and modern engineering. Using practical Python examples, the book demonstrates how physical principles can be modelled, analysed and optimised with professional software tools.
 
-From Traditional Gear Geometry to Modern Contact Analysis
+The book is available in English, German and French, making it accessible to readers throughout the international watchmaking industry.
+
+## What You Will Learn
+
+The book covers a wide range of engineering topics, including:
+
+* Python programming for engineering applications
+* Mechanical watch theory
+* Gear trains and escapements
+* FFT analysis of timing variations
+* Dynamic balancing
+* Hertzian contact pressure
+* Signal processing and data analysis
+* Design of Experiments (DOE)
+* Monte Carlo simulation
+* Reliability and Weibull analysis
+* Silicon hairprings
+* Numerical optimisation
+* Modern graphical user interfaces with PyQt
+* Automatic report generation
+* Engineering software architecture
 
 ## ➡️ Available here: [watchmaking](https://watchmaking.com)
-
-The book explains the mathematical foundations, the Belot profile format, gear generation, contact analysis, Monte Carlo simulation, Hertzian contact pressure, and many of the algorithms implemented in this software.
 
 Professional analysis tools for Swiss watch gear trains.
 
