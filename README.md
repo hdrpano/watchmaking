@@ -174,7 +174,7 @@ If you or your company benefit from this software, please consider supporting it
 
 Your sponsorship helps fund new features, testing, documentation and long-term maintenance.
 
-➡️ **Sponsor this project**
+➡️ **[Sponsor this project](https://github.com/sponsors/hdrpano)**
 
 # Contributing
 
