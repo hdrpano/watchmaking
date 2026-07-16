@@ -166,6 +166,16 @@ The included parser source code is released under the MIT License.
 
 Please see the LICENSE file for details.
 
+## ❤️ Support the Project
+
+The Watchmaking Gear Simulator is developed as an open-source project and is available free of charge for private, educational and commercial use.
+
+If you or your company benefit from this software, please consider supporting its continued development through GitHub Sponsors.
+
+Your sponsorship helps fund new features, testing, documentation and long-term maintenance.
+
+➡️ **Sponsor this project**
+
 # Contributing
 
 Bug reports and feature suggestions are always welcome.
