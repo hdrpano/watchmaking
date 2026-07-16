@@ -1,3 +1,9 @@
+![Python 3.13](https://img.shields.io/badge/Python-3.13-green.svg)
+![PyQt5](https://img.shields.io/badge/PyQT5-green.svg)
+![license MIT](https://img.shields.io/badge/license-MIT-green.svg)
+![platform Windows](https://img.shields.io/badge/platform-Windows-lightgrey.svg) 
+![platform MacOS](https://img.shields.io/badge/platform-MacOS-lightgrey.svg) 
+
 # Watchmaking Gear Simulator
 This is part of my new project and book **Watchmaking with Python**
 
