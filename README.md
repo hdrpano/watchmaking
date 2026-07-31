@@ -38,6 +38,8 @@ The book covers a wide range of engineering topics, including:
 
 ## ➡️ Available here: [watchmaking](https://watchmaking.com)
 
+[![Watch the video](https://img.youtube.com/vi/V2oeTas262E/maxresdefault.jpg)](https://youtu.be/V2oeTas262E)
+
 # Watchmaking Gear Simulator
 
 Professional analysis tools for Swiss watch gear trains.
