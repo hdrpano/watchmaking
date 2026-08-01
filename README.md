@@ -38,7 +38,7 @@ The book covers a wide range of engineering topics, including:
 
 ## ➡️ Available here: [watchmaking](https://watchmaking.com)
 
-[![Watch the video](https://img.youtube.com/vi/V2oeTas262E/maxresdefault.jpg)](https://youtu.be/V2oeTas262E)
+[![Watch the video](https://img.youtube.com/vi/eTInsnymUIg/maxresdefault.jpg)](https://youtu.be/eTInsnymUIg)
 
 # Watchmaking Gear Simulator
 
