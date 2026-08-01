@@ -68,6 +68,8 @@ The software has been developed with a strong focus on practical watchmaking app
 * SVG and PNG graphics export
 * Fusion 360 MCP export
 
+[![Watch the video](https://img.youtube.com/vi/ThAs4o1AdcI/maxresdefault.jpg)](https://youtu.be/ThAs4o1AdcI)
+
 ## Profile Editor
 
 The Profile Editor allows direct modification of Belot gear profiles.
